@@ -20,7 +20,7 @@ The project is organized into the following components:
 
 Insight: The line graph illustrates a steady increase in ridership from 2010-2018, likely due to population growth or expanded metro services. After 2018, there's a sharp increase in ridership up to 2020, which could reflect heightened demand or improvements in service infrastructure. The sharp decline post-2020 aligns with the impact of the COVID-19 pandemic, which significantly reduced public transit. The uptick in ridership from 2021 indicates a recovery, as cities reopen and people return to commuting, although it may still be below pre-pandemic levels.
 
-Visualization: This line plot of Annual Metro Ridership Over Time tracks ridership trends from 2010 to 2021.
+Visualization: This line plot of Annual Metro Ridership Over Time tracks ridership trends from 2010 to 2022.
 
 ![Image alt](https://github.com/dheerajshetty07/Worldwide-Metro-System-Performance-Analysis/blob/43d7dac54fb5e172b868f0cebe87e9f830d7ffb6/Graphs/Annual%20Metro%20Ridership%20over%20time.png)
 
