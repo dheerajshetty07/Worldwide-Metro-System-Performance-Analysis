@@ -72,7 +72,7 @@ Visualization: This scatter plot of Relationship Between System Length and Annua
 
 ![Image alt](https://github.com/dheerajshetty07/Worldwide-Metro-System-Performance-Analysis/blob/85f5399e85b161283436eb44656e694d86f7a2a7/Graphs/Relationship%20between%20system%20lenght%20and%20annual%20ridership.png)
 
-8. Forecasted Metro Ridership
+## 8. Forecasted Metro Ridership
 Insight: The forecasted ridership shows a steady increase from 2021 onwards, indicating a recovery from the COVID-19 pandemic and continued growth in metro usage.
 
 Visualization: This line plot of Annual Metro Ridership Over Time with Forecast tracks historical and forecasted ridership from 2010 to 2030.
