@@ -81,7 +81,7 @@ Visualization: This line plot of Annual Metro Ridership Over Time with Forecast 
 
 ## Results and Insights
 
-**Key findings from the analysis include:**
+### Key findings from the analysis include:
 
 **Ridership Trends:** Metro ridership has steadily increased over the years, with a sharp decline during the COVID-19 pandemic and a recovery starting in 2021.
 
