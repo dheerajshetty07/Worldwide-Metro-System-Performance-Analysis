@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes global metro system performance data to uncover trends, patterns, and insights that can guide metro system operators, urban planners, and policymakers. Using descriptive statistics, predictive modeling, and data visualization, we conducted a comprehensive analysis of metro ridership, system lengths, and economic indicators. This repository contains the code, datasets, and visualizations 
+This project analyzes global metro system performance data to uncover trends, patterns, and insights that can guide metro system operators, urban planners, and policymakers. Using descriptive statistics, predictive modeling, and data visualization, we conducted a comprehensive analysis of metro ridership, system lengths, and economic indicators. This repository contains the code, datasets, and visualizations for the project
 
 ## Project Structure
 
