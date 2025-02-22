@@ -130,10 +130,8 @@ git clone https://github.com/dheerajshetty07/Metro-System-Performance-Analysis.g
 
 For detailed insights, refer to the printed output and visualizations in the 'graphs/' directory.
 
-Data Source
-The data used in this project is sourced from an online platform and is for educational purposes only. The GDP year is assumed to be 2020.
+**Data Source:** The data used in this project is sourced from an online platform and is for educational purposes only. The GDP year is assumed to be 2020.
 
-Contributions
-Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions or improvements.
+**Contributions:** Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions or improvements.
 
 
