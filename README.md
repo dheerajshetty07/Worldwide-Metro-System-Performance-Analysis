@@ -101,7 +101,7 @@ Metro-System-Performance-Analysis/
 ├── Dataset/                 # Contains the raw dataset (metro_data.csv)
 ├── Graphs/                  # Visualizations generated during analysis (e.g., annual_ridership.png, metro_length_distribution.png)
 ├── Presentation/            # Final Powerpoint Presentation
-├── scripts/                 # Python scripts for analysis and visualizations (e.g., MetroSystemAnalysis.py)
+├── Scripts/                 # Python scripts for analysis and visualizations (e.g., MetroSystemAnalysis.py)
 └── README.md                # Project overview and instructions
 ```
 
